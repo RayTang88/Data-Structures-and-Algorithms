@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1548240106 source:/home/ray/code/mycpp/Serch/main.cpp
+	<iostream>
+	"Sequence_serch.h"
+	"Bin_serch.h"
+	"select_order.h"
+
+1548227199 /home/ray/code/mycpp/Serch/Sequence_serch.h
+	<iostream>
+
+1548235292 /home/ray/code/mycpp/Serch/Bin_serch.h
+	<iostream>
+
+1548240297 /home/ray/code/mycpp/Serch/select_order.h
+	<iostream>
+
+1549159018 source:/home/ray/Code_c/Serch/main.cpp
+	<iostream>
+	"Sequence_serch.h"
+	"Bin_serch.h"
+	"select_order.h"
+
+1549156698 /home/ray/Code_c/Serch/Sequence_serch.h
+	<iostream>
+
+1549156614 /home/ray/Code_c/Serch/Bin_serch.h
+	<iostream>
+
+1549155459 /home/ray/Code_c/Serch/select_order.h
+	<iostream>
+
+1549159018 source:/home/ray/Data_Structures_and_Algorithms/Serch/main.cpp
+	<iostream>
+	"Sequence_serch.h"
+	"Bin_serch.h"
+	"select_order.h"
+
+1549156698 /home/ray/Data_Structures_and_Algorithms/Serch/Sequence_serch.h
+	<iostream>
+
+1549161895 /home/ray/Data_Structures_and_Algorithms/Serch/Bin_serch.h
+	<iostream>
+
+1549161895 /home/ray/Data_Structures_and_Algorithms/Serch/select_order.h
+	<iostream>
+
+1549178481 source:/home/ray/Data_Structures_and_Algorithms/Serch/Bin_serch.cpp
+
+1549163037 source:/home/ray/Data_Structures_and_Algorithms/Serch/Sequence_serch.cpp
+
+1549162658 source:/home/ray/Data_Structures_and_Algorithms/Serch/Select_order.cpp
+
+1549167451 source:/home/ray/Data_Structures_and_Algorithms/Serch/recursion.cpp
+
+1549162658 source:/home/ray/Data_Structures_and_Algorithms/Serch/Select_sort.cpp
+
+1549183468 source:/home/ray/Data_Structures_and_Algorithms/Serch/recursion_permutation.cpp
+	<iostream>
+
