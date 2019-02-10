@@ -92,7 +92,7 @@ void Mergesort(T* initlist, const int n)
         l *= 2;
         Mergestep(templist, initlist, n, l);
     }
-    delete templist;
+    delete[] templist;
 }
 
 template<typename T>
