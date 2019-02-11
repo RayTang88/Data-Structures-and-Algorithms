@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1549814491 source:/home/ray/Data_Structures_and_Algorithms/Mystack/main.cpp
+	<iostream>
+	"Mystack.h"
+
+1549793541 /home/ray/Data_Structures_and_Algorithms/Mystack/Myutil.h
+
+1549814511 /home/ray/Data_Structures_and_Algorithms/Mystack/Mystack.h
+	"Myutil.h"
+
+1549794020 source:/home/ray/Data_Structures_and_Algorithms/Mystack/Mystack.cpp
+	<iostream>
+	"Myutil.h"
+	"Mystack.h"
+
